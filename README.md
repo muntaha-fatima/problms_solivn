@@ -1,4 +1,4 @@
-﻿# pPoblms_solivng
+﻿# Problms_solivng
 # Python Utility Functions
 
 This project contains three useful Python functions:
